@@ -11,3 +11,6 @@ Thumbs.db
 *.tmp
 *.log
 node_modules/
+
+# 本地工具配置
+.claude/

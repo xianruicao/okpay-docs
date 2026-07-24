@@ -14,3 +14,6 @@ node_modules/
 
 # 本地工具配置
 .claude/
+
+# 截图 / 素材（不纳入仓库）
+pics/

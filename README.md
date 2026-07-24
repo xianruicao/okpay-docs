@@ -1,8 +1,28 @@
 # OKPay.ai 用户手册
 
-> OKPay.ai 官方用户手册。OKPay.ai 是一个**虚拟卡（Virtual Cards）平台**：充值到钱包，即可一键签发虚拟卡用于线上消费。本仓库以纯 Markdown 编写，可直接在 GitHub 上阅读。
+OKPay.ai 是一个虚拟卡平台。用户可以通过 USDT / USDC 充值账户余额，一键签发虚拟卡，用于线上消费、订阅付款等场景。
 
-## 📖 目录
+**使用流程：** 注册账户 → 充值余额（USDT / USDC）→ 签发虚拟卡 → 线上消费与查账。
+
+👉 **[立即使用 OKPay.ai](https://okpay.ai)** ｜ [快速开始](docs/01-快速开始.md) ｜ [查看费率](docs/08-费率与会员等级.md) ｜ [常见问题](docs/10-常见问题FAQ.md)
+
+## 产品预览
+
+以下截图均已脱敏处理，仅用于展示产品界面。
+
+**钱包 · 余额与资金明细**
+
+![钱包 · 余额与资金明细](assets/images/wallet.png)
+
+**我的卡 · 虚拟卡列表**
+
+![我的卡 · 虚拟卡列表](assets/images/my-cards.png)
+
+**卡详情 · 卡片信息与额度**
+
+![卡详情 · 卡片信息与额度](assets/images/card-detail.png)
+
+## 文档目录
 
 | 章节 | 说明 |
 | --- | --- |
@@ -19,17 +39,17 @@
 | [10 · 常见问题 FAQ](docs/10-常见问题FAQ.md) | 高频问题解答 |
 | [11 · 联系我们](docs/11-联系我们.md) | 客服与支持渠道 |
 
-
-## 🤝 如何贡献
+## 如何贡献
 
 1. Fork 本仓库并新建分支。
 2. 修改或新增 `docs/` 下的 Markdown 文件。
 3. 提交 Pull Request，简要说明改动内容。
 
-## 📄 许可
+## 许可
 
 除非另有说明，本手册内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可。
 
----
+## 官方入口
 
-> 官网：<https://okpay.ai>
+- 官网：https://okpay.ai
+- 应用入口：https://okpay.ai/app/home
